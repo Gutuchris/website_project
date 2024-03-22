@@ -1,0 +1,98 @@
+
+body {
+    background-image: url(wall.jpeg);
+}
+
+
+.navbar {
+    background-image: url(wall.jpeg);
+    text-decoration: none;
+    
+    font-family: sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
+
+
+
+}
+
+
+
+
+
+
+.navdiv {
+    display:-webkit-flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.Logo {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: sans-serif;
+    color:white;
+
+
+
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    color: blanchedalmond;
+}
+
+
+li a {
+    color: blanchedalmond;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+
+
+}
+
+button {
+    background-color: rgb(196, 55, 79);
+    margin-left: 100px;
+    border-radius: 10px;
+    padding: 10px;
+    width: auto;
+
+}
+
+button a {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
+ .p1{margin-left: 300px;
+margin-top: 150px;
+font-size: 30px;
+font-weight: bold;
+font-family: sans-serif;
+}   
+span{margin-left: 200px;} 
+ .p2{margin-left: 400px;
+
+
+}   
+
+
+.p3{position: absolute;
+   left: 550px;
+   top: 600px;
+}
+.p4{position: absolute;
+left: 480px;
+top:720px;
+
+
+}
+
